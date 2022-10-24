@@ -22,4 +22,4 @@ download the source code on your computer, edit it with your information and hos
 
 ### Check
 
--  <a href="https://links-free.vercel.app/" target="_blank">demo site</a>
+-  <a href="https://links-free.vercel.app/">demo site</a>
