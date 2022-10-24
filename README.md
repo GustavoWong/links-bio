@@ -1,6 +1,6 @@
 <h1 align="center">Group of links for social networks</h1>
 
-![Captura de tela de 2022-10-23 22-42-52](https://user-images.githubusercontent.com/82613893/197431624-530deebf-c564-4b4e-b155-6c1b0f37b349.png)
+<img src="images-readme/principal.png">
 
 
 <!-- Garis Lurus -->
